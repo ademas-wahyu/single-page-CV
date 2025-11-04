@@ -47,9 +47,3 @@ Then visit: http://localhost:8080
 - Limit to 2–3 primary colors
 - Prioritize readability (high contrast)
 - Showcase projects with concise descriptions and links
-
-## License
-
-MIT — use and modify freely. Add a LICENSE file if needed.
-
--- GitHub Copilot
